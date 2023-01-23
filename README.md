@@ -111,7 +111,7 @@ Update the `CFBundleLocalizations` array in the `Info.plist` at `ios/Runner/Info
     <key>CFBundleLocalizations</key>
 	<array>
 		<string>en</string>
-		<string>es</string>
+		<string>ne</string>
 	</array>
 
     ...
@@ -146,7 +146,7 @@ Update the `CFBundleLocalizations` array in the `Info.plist` at `ios/Runner/Info
 
 ```arb
 {
-    "@@locale": "es",
+    "@@locale": "ne",
     "counterAppBarTitle": "Contador",
     "@counterAppBarTitle": {
         "description": "Texto mostrado en la AppBar de la página del contador"

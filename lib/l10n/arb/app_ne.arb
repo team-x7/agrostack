@@ -1,0 +1,21 @@
+{
+    "@@locale": "ne",
+    "loginTitle": "लग - इन",
+    "loginMessage": "स्वागत छ हामी तपाईंलाई फिर्ता देख्न पाउँदा खुसी छौं",
+    "fieldEmail": "इमेल",
+    "fieldPassword":"पासवर्ड",
+    "forgotPassword": "पासवर्ड भुल्नु भयो",
+    "loginWithEmail":"इमेलको साथ लगइन गर्नुहोस्",
+    "dontHaveAnAccount":"खाता छैन?",
+    "signUpText": "साइन अप",
+    "continueWithGoogle":"Google सँग जारी राख्नुहोस्",
+    "fillTheFormToContinue": "प्रक्रिया जारी राख्न फारम भर्नुहोस्",
+    "fullName": "पुरा नाम",
+    "signUpWithEmail":"इमेलको साथ साइन अप गर्नुहोस्",
+    "alreadyhaveAnAccount": "पहिले नै एउटा खाता छ ?",
+    "profile": "प्रोफाइल",
+    "home":"घर",
+    "foods": "खानाहरू",
+     "strongPassword": "कृपया बलियो पासवर्ड प्रदान गर्नुहोस्",
+    "validEmail": "कृपया मान्य इमेल प्रदान गर्नुहोस्"
+}

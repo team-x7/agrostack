@@ -1,7 +1,22 @@
 {
     "@@locale": "en",
-    "counterAppBarTitle": "Counter",
-    "@counterAppBarTitle": {
-        "description": "Text shown in the AppBar of the Counter Page"
-    }
+    "loginTitle": "Login",
+    "loginMessage": "welcome back we are happy to see you back",
+    "fieldEmail": "Email",
+    "fieldPassword":"Password",
+    "forgotPassword": "Forgot password",
+    "loginWithEmail":"Login With Email",
+    "dontHaveAnAccount":"Don't have an account ?",
+    "signUpText": "Sign Up",
+    "continueWithGoogle":"Continue With Google",
+    "fillTheFormToContinue": "Fill the form to continue the process",
+    "fullName": "Full Name",
+    "signUpWithEmail":"Sign up with Email",
+    "alreadyhaveAnAccount": "Already Have an account ?",
+    "profile": "Profile",
+    "home":"Home",
+    "foods": "Foods",
+    "strongPassword": "Please provide a Strong Password",
+    "validEmail": "Please provide valid email"
+
 }
